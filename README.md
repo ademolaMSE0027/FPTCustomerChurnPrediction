@@ -10,14 +10,14 @@ use classification models to predict and prevent user churn.
 * Ubuntu 16.04
 * python 3.5.2
 
+
+## Running user-churn-prediction models
+
 $ virtualenv -p python3 env3
 
 $ source env3/bin/activate 
 
 (env3)$ pip install -r requirements.txt
-
-## Running user-churn-prediction models
-
 
 (env3)$ python user-churn-prediction.py > log.txt
 
