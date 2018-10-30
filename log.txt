@@ -1,0 +1,32 @@
+Best score:  0.8308857577456809
+Best parameters set: 
+ {'penalty': 'l2', 'C': 0.001}
+Best score:  0.9046062064868859
+Best parameters set: 
+ {'weights': 'uniform', 'n_neighbors': 16}
+Best score:  0.9193391800400939
+Best parameters set: 
+ {'min_samples_leaf': 5, 'max_features': 2, 'min_samples_split': 4}
+Best score:  0.9150885774305311
+Best parameters set: 
+ {'C': 1.9952623149688795}
+Logisitic Regression
+Accuracy is 0.8593333333333333
+Precision is 0.6086956521739131
+Recall is 0.06481481481481481
+F1 score is 0.11715481171548117
+K-Nearest-Neighbors
+Accuracy is 0.9013333333333333
+Precision is 0.9146341463414634
+Recall is 0.3472222222222222
+F1 score is 0.5033557046979865
+Random Forest
+Accuracy is 0.9373333333333334
+Precision is 0.9121621621621622
+Recall is 0.625
+F1 score is 0.7417582417582417
+Support Vector Machine
+Accuracy is 0.9366666666666666
+Precision is 0.8903225806451613
+Recall is 0.6388888888888888
+F1 score is 0.7439353099730459
